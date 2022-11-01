@@ -48,13 +48,13 @@ function App() {
                     height: 1000,
                     fontFamily: 'Lato',
                     fontSize: 24
-            })}}
+                })}}
         >
             <Box sx={{
                 height: 800,
                 width: '100%',
                 '& .blue-theme--header': {
-                backgroundColor: '#0069d9',
+                    backgroundColor: '#0069d9',
                 },
             }}>
                 <img src="/ousd-coin.svg" alt="Origin Protocol"/>
